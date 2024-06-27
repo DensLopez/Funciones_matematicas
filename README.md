@@ -42,7 +42,7 @@ Aprende qué es una función matemática y cómo puedes aplicarlas en el mundo d
 - Funciones seccionadas - [code009.ipynb](codes/code009.ipynb), [code009.pdf](codes/pdfs/code009.pdf).
 - Funciones compuestas - [code010.ipynb](codes/code010.ipynb), [code010.pdf](codes/pdfs/code010.pdf).
 - ¿Cómo maniupular funciones - [code011.ipynb](codes/code011.ipynb), [code011.pdf](codes/pdfs/code011.pdf).
-- Características de las funciones - [Quiz01](codes/pdfs/quiz02.pdf)
+- Características de las funciones - [Extra01.ipynb](codes/extra01.ipynb), [Extra01.pdf](codes/pdfs/extra01.pdf)
 
 ### Funciones en ciencia de datos
 
