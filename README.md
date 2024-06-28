@@ -53,13 +53,7 @@ Aprende qué es una función matemática y cómo puedes aplicarlas en el mundo d
 
 ### Este no es el fin
 
-- Te has iniciado detrás del secreto de la ciencia de datos - [code016.ipynb](codes/code016.ipynb), [code016.pdf](codes/pdfs/code016.pdf).
-- Quiz final - [Quiz02](codes/pdfs/quiz02.pdf)
-
------------------------------
-
-<h2 align="center">Extra</h2>
-
-### ¿Quieres saber más?
+- Te has iniciado detrás del secreto de la ciencia de datos.
+- Quiz final - [Quiz final](codes/pdfs/extra02.pdf)
 
 <br />
